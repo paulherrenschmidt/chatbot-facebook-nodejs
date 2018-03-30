@@ -194,7 +194,7 @@ function handleApiAiAction(sender, action, responseText, contexts, parameters) {
           {
             "content_type":"text",
             "title":"BBA2",
-            "payload":"BBA1"
+            "payload":"BBA100"
           }
       ];
       sendQuickReply(sender, responseText, replies);
